@@ -1,0 +1,9 @@
+# Clone with submodules
+git clone --recursive https://github.com/DarkPh03nix/YTLitePlus.git
+
+# Or initialize submodules after cloning
+git submodule update --init --recursive
+
+# Build
+make clean
+make package
