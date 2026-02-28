@@ -1,5 +1,5 @@
 # Clone with submodules
-git clone --recursive https://github.com/DarkPh03nix/YTLitePlus.git
+git clone --recursive https://github.com/YTLitePlus/YTLitePlus.git
 
 # Or initialize submodules after cloning
 git submodule update --init --recursive
