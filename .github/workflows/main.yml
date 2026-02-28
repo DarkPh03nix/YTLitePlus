@@ -3,7 +3,7 @@
 # This script creates a clean ytliteplus-tweak-only branch
 # Now with automatic submodule cleanup!
 
-set -e  # Exit on error
+#set -e  # Exit on error
 
 # Colors for output
 RED='\033[0;31m'
